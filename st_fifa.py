@@ -8,6 +8,8 @@ import seaborn as sns
 import jupyter_black
 import streamlit as st
 
+st.set_page_config(page_title="Fifa Nearest Neighbors", layout="wide")
+
 @st.cache
 def prepare_data():
     # Run Black for Better Formatting
