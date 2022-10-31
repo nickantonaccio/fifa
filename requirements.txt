@@ -5,4 +5,4 @@ matplotlib
 plotly
 seaborn
 jupyter_black
-streamlit as st
+streamlit
